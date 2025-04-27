@@ -15,3 +15,10 @@
 def hello_world():
     print('Hello World!')
 ```
+
+### Exploring task list
+
+- [x] Adding a header
+- [x] Adding an image
+- [x] Adding code
+- [ ] Adding task list
